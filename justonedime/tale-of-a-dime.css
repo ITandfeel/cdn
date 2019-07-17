@@ -1,0 +1,18 @@
+<link rel="canonical" href="https://justonedime.com/the-tale-of-a-dime">
+<style>
+.toad-lb-item .toad-lb-thumb-hover, .toad-lb-item .toad-gi-hover-img, .toad-lb-item .toad-gi-read-more-txt{
+  transition: all 1s ease;
+}
+.toad-lb-item:hover .toad-lb-thumb-hover, .toad-lb-item:hover .toad-gi-hover-img, .toad-lb-item:hover .toad-gi-read-more-txt{
+  opacity:1;
+}
+.w-richtext ul {margin-left: -10px; list-style-image:url(https://assets-global.website-files.com/57f1ef53eb7eab16095d8f7c/5cdd031bdd562605657b5439_afm-icn-list.png);}
+.w-dyn-item ul li { font-size: 13px; line-height: 130%; padding: 7px 0 0 10px;}
+@media only screen and (min-width:1440px){
+.toad-lightbox{height:85%;}
+}
+@media only screen and (width:1440px){
+.toad-ph-cont{margin-top:-65px;}.toad-lightbox{width:75%;}.toad-lb-content-text{height:490px;}.toad-lb-txt{width:360px;font-size:18px;}.toad-lb-head-bg{height:242px;}.toad-lb-head-title{width:360px;font-size:28px;}.toad-lb-imgs{top:-50px;margin-left:7%;}
+#item-10 .toad-lb-content-text{height:600px;}#item-15 .toad-lb-content-text, #item-11 .toad-lb-content-text{height:630px;}#item-15 ul li{font-size:16px;}.toad-lb-item{min-height: 290px;}.toad-gi-txt{font-size:20px;}.toad-lb-head-title{width:380px;}
+}
+</style>
