@@ -1,0 +1,561 @@
+.w--current {
+    color: #97c211 !important;
+}
+
+.afm-body, .afm-pjly-section {
+    overflow-x: hidden !important
+}
+
+.afm-guru-sec-title {
+    word-spacing: 20px
+}
+
+@media only screen and (width: 2560px) {
+    .afm-ays-cont, .afm-block-cont, .afm-courses-cont, .afm-cta-cont, .afm-flex-center-cont, .afm-flex-horiz-cont, .afm-flex-just-cont, .w-container {
+        max-width: 2422px !important
+    }
+
+    .afm-et-boxes-cont {
+        max-width: 2491px !important
+    }
+
+    .afm-rbtn-label, p {
+        font-size: 36px !important
+    }
+}
+
+@media only screen and (width: 2304px) {
+    .afm-ays-cont, .afm-block-cont, .afm-courses-cont, .afm-cta-cont, .afm-flex-center-cont, .afm-flex-horiz-cont, .afm-flex-just-cont, .w-container {
+        max-width: 2166px !important
+    }
+
+    .afm-et-boxes-cont {
+        max-width: 2235px !important
+    }
+
+    .afm-rbtn-label, p {
+        font-size: 32px !important
+    }
+}
+
+@media only screen and (min-width: 2304px) {
+    .afm-wbt-img {
+        margin-left: 230px;
+    }
+
+    .afm-w-box {
+        width: 770px;
+    }
+
+    .afm-bonuses-content-title-span, .afm-course-content-title-span, .afm-everything-grand-total-title, .amazon-fba-mastery-price-section-title {
+        font-size: 78px
+    }
+
+    .afm-are-you-sick-subtitle, .afm-button-cta-txt, .afm-everything-cell-title, .afm-guru-sec-title, .afm-how-important-bottom-text-bold, .afm-post-header-content-txt {
+        font-size: 52px !important
+    }
+
+    .afm-ph-button.afm-button-new {
+        width: 730px;
+        height: 120px
+    }
+
+    .afm-cta-section-text, .afm-cta-text-span, .afm-ph-cta-txt, .afm-price-main-title, .afm-wbt-left-title, .afm-wbt-light-title, .afm-wbt-title {
+        font-size: 64px
+    }
+
+    .afm-mentor-session-item, .afm-ph-list-item-txt {
+        font-size: 31px !important
+    }
+
+    .afm-bonuses-content-title, .afm-course-content-title, .afm-everything-cell-total, .afm-wjod-subtitle, .afm-wywr-subtitle-group-h3 {
+        font-size: 56px !important
+    }
+
+    .amazon-fba-mastery-price-section {
+        padding-top: 164px
+    }
+
+    .afm-course-list-item-icn, .afm-everything-list-item-icn, .afm-wjod-list-item-icn {
+        width: 36px !important;
+        height: 30px !important
+    }
+
+    .afm-bonuses-item-icn, .afm-plan-list-item-icn, .afm-wywrt-item-icn {
+        width: 34px;
+        height: 27px
+    }
+
+    .afm-everything-list-item-icn, .afm-plan-list-item-icn, .afm-wjod-list-item-icn {
+        margin-top: 24px
+    }
+
+    .afm-post-wbt-section-jod-logo {
+        width: 113px !important;
+        height: 113px !important
+    }
+
+    .afm-course-total--amount, .afm-tiwid-r2-main-content-txt, .afm-why-jod-centered-text {
+        font-size: 40px !important
+    }
+
+    .afm-plan-list-item-txt {
+        font-size: 33px !important
+    }
+
+    .afm-course-container {
+        width: 1000px
+    }
+
+    .afm-course-img {
+        width: 750px;
+        height: auto
+    }
+
+    .afm-course-number-impar {
+        left: -3%;
+        top: -4%
+    }
+
+    .afm-course-number-par {
+        left: 6%;
+        top: 6%
+    }
+
+    .afm-annually-radio-button, .afm-bonuses-item-icn, .afm-monthly-radio-button, .afm-wywrt-item-icn {
+        margin-top: 20px
+    }
+
+    .afm-cta-jod-logo {
+        width: 146px !important;
+        height: 146px !important
+    }
+
+    .afm-button-cta.afm-button-new {
+        padding: 15px 280px !important
+    }
+
+    .afm-sr-carousel {
+        animation: animatecar 30s ease-out infinite !important
+    }
+
+    @keyframes animatecar {
+        from {
+            transform: translateX(0)
+        }
+        to {
+            transform: translateX(-42%)
+        }
+    }.afm-tiwd-txt {
+         margin-top: 10%
+     }
+
+    .afm-pp-title {
+        font-size: 74px
+    }
+
+    .afm-ays-cont {
+        margin-top: -55% !important
+    }
+
+    .afm-are-you-sick-img {
+        margin-bottom: 20%
+    }
+
+    .afm-are-you-sick-txt {
+        margin-bottom: 10%
+    }
+
+    .afm-button-cta-ready.afm-button-new {
+        padding: 15px 190px
+    }
+
+    .afm-everything-gt-symbol {
+        font-size: 65px !important
+    }
+
+    .afm-everything-gt-number {
+        font-size: 100px !important
+    }
+
+    .afm-menu-item-link {
+        font-size: 26px
+    }
+
+    .w-nav-brand img {
+        height: 55px
+    }
+
+    .amazon-fba-mastery-menu-links {
+        padding-left: 20%
+    }
+}
+
+@media only screen and (width: 1920px) {
+    .afm-wbt-img {
+        margin-left: 70px;
+    }
+
+    .afm-w-box {
+        width: 630px;
+    }
+
+    .afm-pp-slider {
+        min-height: 1000px;
+    }
+
+    .afm-ays-cont, .afm-block-cont, .afm-courses-cont, .afm-cta-cont, .afm-flex-center-cont, .afm-flex-horiz-cont, .afm-flex-just-cont, .w-container {
+        max-width: 1782px !important
+    }
+
+    .afm-et-boxes-cont {
+        max-width: 1850px !important
+    }
+
+    .afm-rbtn-label, p {
+        font-size: 28px !important
+    }
+
+    .afm-bonuses-content-title-span, .afm-course-content-title-span, .afm-everything-grand-total-title, .afm-post-header-title, .amazon-fba-mastery-price-section-title {
+        font-size: 68px
+    }
+
+    .afm-are-you-sick-subtitle, .afm-button-cta-txt, .afm-everything-cell-title, .afm-guru-sec-title, .afm-how-important-bottom-text-bold, .afm-post-header-content-txt {
+        font-size: 48px !important
+    }
+
+    .afm-ph-button.afm-button-new {
+        width: 730px;
+        height: 90px
+    }
+
+    .afm-ph-cta-txt {
+        font-size: 52px
+    }
+
+    .afm-cta-section-text, .afm-cta-text-span, .afm-price-main-title, .afm-wbt-left-title, .afm-wbt-light-title, .afm-wbt-title {
+        font-size: 62px
+    }
+
+    .afm-mentor-session-item, .afm-ph-list-item-txt {
+        font-size: 23px !important
+    }
+
+    .afm-wbt-img-div {
+        margin-top: 80px
+    }
+
+    .afm-bonuses-content-title, .afm-course-content-title, .afm-everything-cell-total, .afm-wjod-subtitle, .afm-wywr-subtitle-group-h3 {
+        font-size: 46px !important
+    }
+
+    .amazon-fba-mastery-price-section {
+        padding-top: 100px
+    }
+
+    .afm-course-list-item-icn, .afm-everything-list-item-icn, .afm-wjod-list-item-icn {
+        width: 32px !important;
+        height: 26px !important
+    }
+
+    .afm-bonuses-item-icn, .afm-plan-list-item-icn, .afm-wywrt-item-icn {
+        width: 27px;
+        height: 24px
+    }
+
+    .afm-everything-list-item-icn, .afm-plan-list-item-icn, .afm-wjod-list-item-icn {
+        margin-top: 18px
+    }
+
+    .afm-course-total--amount, .afm-tiwid-r2-main-content-txt, .afm-why-jod-centered-text {
+        font-size: 32px !important
+    }
+
+    .afm-plan-list-item-txt {
+        font-size: 25px !important
+    }
+
+    .afm-course-content-container {
+        width: 765px
+    }
+
+    .afm-course-img {
+        width: 630px;
+        height: auto
+    }
+
+    .afm-course-number-impar {
+        left: -3%;
+        top: -6%
+    }
+
+    .afm-course-number-par {
+        left: 6%;
+        top: 6%
+    }
+
+    .afm-annually-radio-button, .afm-bonuses-item-icn, .afm-monthly-radio-button, .afm-wywrt-item-icn {
+        margin-top: 20px
+    }
+
+    .afm-button-cta.afm-button-new {
+        padding: 15px 200px !important
+    }
+
+    .afm-sr-carousel {
+        animation: animatecarr 30s ease-out infinite !important
+    }
+
+    @keyframes animatecarr {
+        from {
+            transform: translateX(0)
+        }
+        to {
+            transform: translateX(-42%)
+        }
+    }.afm-tiwd-txt {
+         margin-top: 7%
+     }
+
+    .afm-pp-title {
+        font-size: 64px
+    }
+
+    .afm-ays-cont {
+        margin-top: -50% !important
+    }
+
+    .afm-are-you-sick-img {
+        margin-bottom: 20%
+    }
+
+    .afm-are-you-sick-txt {
+        margin-bottom: 7%
+    }
+
+    .afm-button-cta-ready.afm-button-new {
+        padding: 15px 190px
+    }
+
+    .afm-everything-gt-symbol {
+        font-size: 55px !important
+    }
+
+    .afm-everything-gt-number {
+        font-size: 85px !important
+    }
+
+    .afm-menu-item-link {
+        font-size: 22px
+    }
+
+    .w-nav-brand img {
+        height: 45px
+    }
+
+    .amazon-fba-mastery-menu-links {
+        padding-left: 17%
+    }
+}
+
+@media only screen and (min-width: 1650px) {
+    .afm-pass-p-section {
+        background-position: 0 100%
+    }
+}
+
+@media only screen and (width: 1680px) {
+    .afm-tiwd-txt {
+        margin-top: 7%;
+    }
+}
+
+@media only screen and (width: 1440px) {
+    .afm-l-box {
+        width: 520px;
+    }
+
+    .afm-wbt-img {
+        margin-left: 30px;
+    }
+
+    .afm-w-box {
+        width: 500px;
+    }
+
+    .afm-cta-ss {
+        padding-right: 25%;
+    }
+
+    .afm-button-cta-ready, .afm-button-cta.afm-button-new {
+        padding: 10px 90px;
+    }
+
+    .afm-ays-cont, .afm-block-cont, .afm-courses-cont, .afm-cta-cont, .afm-flex-center-cont, .afm-flex-horiz-cont, .afm-flex-just-cont {
+        max-width: 1302px !important
+    }
+
+    .afm-et-boxes-cont {
+        max-width: 1371px !important
+    }
+
+    .afm-wbt-img-div {
+        margin-top: 60px !important
+    }
+
+    .afm-wjod-txt {
+        margin-bottom: 7%
+    }
+
+    .afm-course-container {
+        width: 570px;
+    }
+
+    .afm-course-img {
+        width: 450px;
+        height: auto;
+    }
+
+    .afm-are-you-sick-img {
+        margin-bottom: 10%;
+    }
+}
+
+@media only screen and (min-width: 1366px) and (max-width: 1440px) {
+    .afm-menu-item-link {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1366px) {
+    .afm-cta-ss {
+        padding-right: 17%;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .afm-tiwid-right-img, .afm-wywr-img {
+        width: 100%
+    }
+}
+
+@media only screen and (width: 1024px) {
+    .afm-pp-title {
+        font-size: 34px;
+    }
+
+    .afm-course-container {
+        width: 430px !important
+    }
+
+    .afm-post-wbt-txt br {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .afm-guru-sec-title br, .afm-post-header-content-txt br, .afm-ph-list-item-txt br, .afm-wjod-subtitle br {
+        display: none
+    }
+}
+
+@media only screen and (width: 800px) {
+    .image-26 {
+        margin-top: 25%
+    }
+}
+
+@media only screen and (width: 768px) {
+    .afm-courses-section {
+        margin-top: -10%
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .afm-wbt-img {
+        margin-top: 3%
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 420px) {
+    .afm-ays-cont {
+        margin-top: -150%
+    }
+}
+
+@media only screen and (min-width: 440px) and (max-width: 480px) {
+    .afm-ays-cont {
+        margin-top: -100%
+    }
+}
+
+@media only screen and (max-width: 1920px) {
+    .afm-sr-carousel {
+        animation: animate 30s ease infinite
+    }
+
+    @keyframes animate {
+        from {
+            transform: translateX(0)
+        }
+        to {
+            transform: translateX(-70%)
+        }
+    }
+}
+
+@media only screen and (min-width: 2560px) {
+    .afm-head-logo {
+        margin-left: 26%;
+    }
+
+    .afm-hm-right {
+        margin-right: 26%;
+    }
+}
+
+@media only screen and (width: 2304px) {
+    .afm-head-logo {
+        margin-left: 23%;
+    }
+
+    .afm-hm-right {
+        margin-right: 23%;
+    }
+}
+
+@media only screen and (min-width: 1840px) and (max-width: 1920px) {
+    .afm-head-logo {
+        margin-left: 18%;
+    }
+
+    .afm-hm-right {
+        margin-right: 18%;
+    }
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 1680px) {
+    .afm-head-logo {
+        margin-left: 14%;
+    }
+
+    .afm-hm-right {
+        margin-right: 14%;
+    }
+}
+
+@media only screen and (width: 1440px) {
+    .afm-head-logo {
+        margin-left: 8%;
+    }
+
+    .afm-hm-right {
+        margin-right: 8%;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .w-nav-overlay {
+        width: 150px;
+    }
+}
